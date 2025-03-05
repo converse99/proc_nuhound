@@ -1,0 +1,16 @@
+[package]
+name = "proc_nuhound"
+description = "Nuhound error handling macros"
+repository = "https://github.com/converse99/proc_nuhound"
+homepage = "https://github.com/converse99/proc_nuhound"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+keywords = ["error", "debugging", "Result", "Option"]
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+
